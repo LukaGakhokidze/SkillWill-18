@@ -256,8 +256,11 @@ a {
   grid-area: area--6;
   position: relative;
 }
-.img2,
 .img1 {
+  height: 25rem;
+  width: 27rem;
+}
+.img2 {
   height: 26rem;
   width: 27rem;
 }
